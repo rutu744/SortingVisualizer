@@ -1,0 +1,17 @@
+# Ignore Gradle caches and build files
+.gradle/
+build/
+.gradle/
+.idea/
+*.iml
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Windows system folders
+AppData/
+Thumbs.db
+Desktop.ini
